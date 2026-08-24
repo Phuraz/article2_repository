@@ -1,4 +1,4 @@
-# Code and supplementary materials for [Manuscript Title]
+# Code and supplementary materials for A Bayesian Predictive Tail Evaluation Framework for Bitcoin Block Arrival Delays
 
 This repository contains the analysis notebooks, figures, tables, and data used for the study, “A Bayesian Predictive Tail Evaluation Framework for Bitcoin
 Block Arrival Delays.”
