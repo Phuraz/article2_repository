@@ -5,7 +5,7 @@ Block Arrival Delays.”
 
 ## Contents
 
-- `Final_Hawkes_...ipynb`: final Hawkes-model analysis and results.
+- `REVIEWERS_Refactored_Final_Bitcon_PyMC_Bayes_Analysis.ipynb.`: final Hawkes-model analysis and results.
 - `Recursion_Hawkes_...ipynb`: Hawkes likelihood recursion implementation.
 - `Refactored_Hawkes_Model_Selection.ipynb`: model-selection analysis.
 - `figs/`: manuscript figures.
