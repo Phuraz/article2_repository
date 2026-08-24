@@ -1,0 +1,15 @@
+# Code and supplementary materials for [Manuscript Title]
+
+This repository contains the analysis notebooks, figures, tables, and data used for the study, “A Bayesian Predictive Tail Evaluation Framework for Bitcoin
+Block Arrival Delays.”
+
+## Contents
+
+- `Final_Hawkes_...ipynb`: final Hawkes-model analysis and results.
+- `Recursion_Hawkes_...ipynb`: Hawkes likelihood recursion implementation.
+- `Refactored_Hawkes_Model_Selection.ipynb`: model-selection analysis.
+- `figs/`: manuscript figures.
+- `tables/`: manuscript tables.
+- `bitcoin_blocks_and_transactions_sorted.csv`: analysis dataset.
+
+The analyses were implemented in Python using PyMC. Sampling used four chains, 1,200 tuning iterations, and 1,200 posterior draws per chain. Package versions and a more streamlined reproduction workflow will be added in a post-review update.
