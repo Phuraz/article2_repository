@@ -6,8 +6,7 @@ Block Arrival Delays.”
 ## Contents
 
 - `REVIEWERS_Refactored_Final_Bitcon_PyMC_Bayes_Analysis.ipynb.`: final Hawkes-model analysis and results.
-- `Refactored_Final_Bitcon_PyMC_Bayes_Analysis.ipynb`: original final analysis notebook. It contains the fitted-model workflow and saved model outputs used in the analysis.
-- `Final_Hawkes_Bitcoin_data_PyMC_Model_Comparison_Py310`: Initial experimentation with some models fitting saved into the disc
+- `Final_Hawkes_Bitcoin_data_PyMC_Model_Comparison_Py310`: Initial experimentation with some models fitting saved into the disc via az.to_netcdf()
 - `Recursion_Hawkes_...ipynb`: Hawkes likelihood recursion implementation.
 - `Refactored_Hawkes_Model_Selection.ipynb`: model-selection analysis.
 - `functions.py`: reusable Python functions called by the main notebook, including model-fitting and evaluation utilities.
