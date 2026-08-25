@@ -12,4 +12,4 @@ Block Arrival Delays.”
 - `tables/`: manuscript tables.
 - `bitcoin_blocks_and_transactions_sorted.csv`: analysis dataset.
 
-The analyses were implemented in Python using PyMC. Sampling used four chains, 1,200 tuning iterations, and 1,200 posterior draws per chain. Package versions and a more streamlined reproduction workflow will be added in a post-review update.
+The analyses were implemented in Python: 3.10.13 using PyMC: 5.25.1. in Windows Subsystem for Linux (WSL). Sampling used four chains, 1,200 tuning iterations, and 1,200 posterior draws per chain.
