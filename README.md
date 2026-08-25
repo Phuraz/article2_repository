@@ -4,7 +4,7 @@ This repository contains the analysis notebooks, figures, tables, and data used 
 Block Arrival Delays.”
 
 ## Contents
-- `Final_Hawkes_Bitcoin_data_PyMC_Model_Comparison_Py310`: Initial experimentation with model fitting saved into the disk via az.to_netcdf(). Most model fitting logic is commented out, can be uncommented and executed. Note since saved model file breach the Github files threshold, so to reproduce the analysis executed the fitting and save to disk.
+- `Final_Hawkes_Bitcoin_data_PyMC_Model_Comparison_Py310`: Initial experimentation with model fitting saved into the disk via az.to_netcdf(). Most model fitting logic is commented out, can be uncommented and executed. Note since saved model file breach the Github files threshold, model fitting logic will need to executed and then saved to disk otherwse the  `REVIEWS_Refactored_Final_Bitcon_PyMC_Bayes_Analysis.ipynb.` will not compile.
 - `REVIEWS_Refactored_Final_Bitcon_PyMC_Bayes_Analysis.ipynb.`: Is the final analysis contain all the visualisation and comparisons. Minimal model fitting, models are rather loaded from disk via az.from_netcdf(). 
 - `functions.py`: reusable Python functions called by the main notebook, including model-fitting and evaluation utilities.
 - `figs/`: manuscript figures.
